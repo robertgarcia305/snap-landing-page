@@ -182,7 +182,7 @@ nav {
 .hero-text-wrap {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
     width: 30%;
 }
 
@@ -442,7 +442,7 @@ footer {
     .hero-text-wrap {
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: space-evenly;
         width: 40%;
     }
     
